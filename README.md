@@ -285,10 +285,6 @@ The project is being developed from the ground up rather than by modifying leake
 
 ---
 
-## License
-
-See the [`LICENSE`](LICENSE) file for the license of this project.
-
 ---
 
 <div align="center">
