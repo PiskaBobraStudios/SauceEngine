@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.steamusercontent.com/ugc/18413614534107357906/93255D3C84B5C526CE4AAD8785380A35D1D9FDB7/" width="220">
+<img src="https://images.steamusercontent.com/ugc/12025251910878128013/1C97E8BC51B4588CE6F4EF1B1FC537C05E9C2C15/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="220">
 
 # Sauce Engine
 
